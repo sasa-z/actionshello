@@ -1,6 +1,4 @@
 name: Hello World
 on:
   pull_request:
-    branches:
-      - featurea
     types: [opened]
